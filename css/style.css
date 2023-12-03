@@ -436,7 +436,23 @@ li{
   }
 
   @media (prefers-reduced-motion:reduce){
-    /* stuff */
+    
+    #wander{
+      transition: none;
+    }
+
+    .signup{
+      animation: none;
+    }
+
+    .contact{
+      animation: none;
+    }
+
+    body{
+      animation: none;
+    }
+
   }
   
 

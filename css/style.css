@@ -203,7 +203,7 @@ li{
   }
 
   #signup-back{
-    background-image: url(/images/sunset.jpg);
+    background-image: url(../images/sunset.jpg);
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
   }
@@ -275,7 +275,7 @@ li{
   }
 
   #contact-back{
-    background-image: url(/images/sunset.jpg);
+    background-image: url(../images/sunset.jpg);
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
   }
@@ -308,7 +308,7 @@ li{
 
   .wander{
     text-align: center;
-    background-image: url(/images/sunset.jpg);
+    background-image: url(../images/sunset.jpg);
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
   }
